@@ -1,4 +1,4 @@
-# learning
+# Learning Resources
 
 Here are some great (free and cheap) learning resources:
 
